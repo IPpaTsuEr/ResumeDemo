@@ -6,6 +6,7 @@
 <h4>三维交互</h4>
 </summary>
 
+#### 三维交互
 
 - 支持自定义
 	- 模型 
@@ -22,13 +23,15 @@
 
 ![image](三维交互/三维交互动态移动动画.gif)
 
-</detail>
+</details>
+
 
 <details open>
 <summary>
 <h4>蓝图（2.0）</h4>
 </summary>
 
+#### 蓝图（2.0）
 ##### 概述
 
 - 本地部署
@@ -77,13 +80,15 @@
 - [ ] 源代码生成
 - [ ] 编译与自动打包
 
-</detail>
+</details>
 
-<detail>
+
+<details>
 <summary>
 <h4>蓝图（1.0）</h4>
 </summary>
 
+#### 蓝图（1.0）
 - 支持算法节点可视化编辑
 
 > 从算法列表中拖拽到画布中自动生成可视化对象显示；自由组织、调整数据处理流程
@@ -98,12 +103,15 @@
 
 ![image](WPF控件/蓝图/可视化算法编辑动态移动动画.gif)
 
-</detail>
+</details>
 
-<detail>
+
+<details>
 ### UnrealEngine
 <summary>
 <h4>材质示例</h4>
 </summary>
 
-</detail>
+#### 材质示例
+
+</details>
