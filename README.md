@@ -28,10 +28,12 @@
 
 <details open>
 <summary>
-<h4>蓝图（2.0）</h4>
+<h4>蓝图 </h4>
+![image](https://img.shields.io/badge/Ver-2.0-green)
 </summary>
 
-#### 蓝图（2.0）
+#### 蓝图
+![image](https://img.shields.io/badge/Ver-2.0-green)
 ##### 概述
 
 - 本地部署
@@ -96,10 +98,13 @@
 
 <details>
 <summary>
-<h4>蓝图（1.0）</h4>
+<h4>蓝图</h4>
+![image](https://img.shields.io/badge/Ver-1.0-blue)
 </summary>
 
-#### 蓝图（1.0）
+#### 蓝图
+![image](https://img.shields.io/badge/Ver-1.0-blue)
+
 - 支持算法节点可视化编辑
 
 > 从算法列表中拖拽到画布中自动生成可视化对象显示；自由组织、调整数据处理流程
