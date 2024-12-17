@@ -28,8 +28,7 @@
 
 <details open>
 <summary>
-<h4>蓝图 </h4>
-![image](https://img.shields.io/badge/Ver-2.0-green)
+<h4>蓝图(2.0)</h4>
 </summary>
 
 #### 蓝图
@@ -98,8 +97,7 @@
 
 <details>
 <summary>
-<h4>蓝图</h4>
-![image](https://img.shields.io/badge/Ver-1.0-blue)
+<h4>蓝图(1.0)</h4>
 </summary>
 
 #### 蓝图
